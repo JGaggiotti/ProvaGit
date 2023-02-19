@@ -4,6 +4,6 @@ public class ProvaGit2 {
 
     public static void main(String[] args) {
 
-        println("THIS IS CONTAINED IN MY SECOND COMMIT");
+        println("THIS IS COONSTAINED IN MY SECOND COMMIT");
     }
 }
