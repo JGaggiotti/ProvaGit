@@ -8,5 +8,6 @@ public class ProvaGit2 {
         println("LOCAL CHANGE");
         println("CHANGE 8");
         println("THIS LINE WILL BE MERGED");
+        println("Hello from your friend")
     }
 }
