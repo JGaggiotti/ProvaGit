@@ -6,7 +6,7 @@ public class ProvaGit2 {
 
         println("THIS IS COONSTAINED IN MY SECOND COMMIT");
         println("LOCAL CHANGE");
-        println("CHANGE 4");
+        println("CHANGE 9");
         println("THIS LINE WILL BE MERGED");
     }
 }
